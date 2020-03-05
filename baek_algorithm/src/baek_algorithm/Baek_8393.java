@@ -10,5 +10,6 @@ public class Baek_8393 {
             s=s+i;
         }
         System.out.println(s);
+        scan.close();
 	}
 }

@@ -9,5 +9,6 @@ public class Beak_11021 {
 			int b=sc.nextInt();
 			System.out.printf("Case #%d: %d",i,a+b);
 		}
+		sc.close();
 	}
 }

@@ -9,5 +9,6 @@ public class Beak_10950 {
 			int b=sc.nextInt();
 			System.out.println(a+b);
 		}
+		sc.close();
 	}
 }

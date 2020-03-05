@@ -9,7 +9,8 @@ public class Baek_2742 {
 		int n=sc.nextInt();
 		for(int i=n;i>0;i--) {
 			System.out.println(i);
-		}		
+		}	
+		sc.close();
 	}
 
 }

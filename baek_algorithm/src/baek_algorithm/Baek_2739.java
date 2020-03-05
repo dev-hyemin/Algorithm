@@ -12,5 +12,6 @@ public class Baek_2739 {
             s=n*i;
             System.out.println(n + " * " + i + " = " + s);
         }
+        sc.close();
 	}
 }

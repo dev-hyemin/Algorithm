@@ -14,7 +14,7 @@ public class Baek_2439 {
 			}
 			System.out.println();
 		}
-
+		sc.close();
 	}
 
 }
