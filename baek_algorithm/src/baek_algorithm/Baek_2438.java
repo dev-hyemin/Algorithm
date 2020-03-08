@@ -1,4 +1,5 @@
 package baek_algorithm;
+
 import java.util.Scanner;
 
 public class Baek_2438 {

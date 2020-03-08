@@ -8,8 +8,7 @@ public class Beak_10818 {
 		int[] num=new int[n];
 		
 		for(int i=0;i<n;i++) {
-			int a=sc.nextInt();
-			num[i]=a;
+			num[i]=sc.nextInt();
 		}
 		int max=num[0];
 		int min=num[0];
